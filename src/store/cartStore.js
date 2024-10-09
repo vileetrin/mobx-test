@@ -7,28 +7,28 @@ class CartStore {
             name: 'Shopping bag',
             price: 200,
             amount: 1,
-            image: '/public/img/bag.jpg',
+            image: '/img/bag.jpg',
         },
         {
             id: 2,
             name: 'Baking forms',
             price: 850,
             amount: 1,
-            image: '/public/img/baking-forms.jpg'
+            image: '/img/baking-forms.jpg'
         },
         {
             id: 3,
             name: 'Curlers',
             price: 100,
             amount: 1,
-            image: '/public/img/curlers.jpg'
+            image: '/img/curlers.jpg'
         },
         {
             id: 4,
             name: 'Scrunchy',
             price: 300,
             amount: 1,
-            image: '/public/img/scrunchy.jpg'
+            image: '/img/scrunchy.jpg'
         },
     ];
     cart = [];
